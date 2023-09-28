@@ -1,7 +1,6 @@
-from datetime import date
 from datetime import datetime
 
-current = date.today()
+current = datetime.today()
 time = datetime.now()
 
 # Cosmetic changes that make the Date appear in text form instead of just numbers
