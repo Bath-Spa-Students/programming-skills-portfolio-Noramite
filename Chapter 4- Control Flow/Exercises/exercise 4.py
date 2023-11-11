@@ -1,3 +1,4 @@
+#baby
 age = 1
 if age < 2:
     print("The person is a baby.")
@@ -12,7 +13,7 @@ elif age < 65:
 else:
     print("The person is an elder.")
 
-
+#toddler
 age = 3
 if age < 2:
     print("The person is a baby.")
@@ -27,7 +28,7 @@ elif age < 65:
 else:
     print("The person is an elder.")
 
-
+#kid
 age = 10
 if age < 2:
     print("The person is a baby.")
@@ -42,7 +43,7 @@ elif age < 65:
 else:
     print("The person is an elder.")
 
-
+#teenager
 age = 17
 if age < 2:
     print("The person is a baby.")
@@ -57,7 +58,7 @@ elif age < 65:
 else:
     print("The person is an elder.")
 
-
+#adult
 age = 30
 if age < 2:
     print("The person is a baby.")
@@ -72,7 +73,7 @@ elif age < 65:
 else:
     print("The person is an elder.")
 
-
+#elder
 age = 70
 if age < 2:
     print("The person is a baby.")

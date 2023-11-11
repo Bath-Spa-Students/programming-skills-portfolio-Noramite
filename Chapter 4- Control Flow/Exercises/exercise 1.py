@@ -8,6 +8,3 @@ if alien_color == 'red':
 
 if alien_color == 'yellow':
     print("Player earned 5 points!")
-
-else:
-    print ("(blank)")
