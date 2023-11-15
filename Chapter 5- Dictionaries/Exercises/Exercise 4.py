@@ -1,5 +1,8 @@
+#this is justa generic list of places
 rivers_and_countries = {'nile': 'Egypt', 'amazon': 'Brazil', 'yangtze': 'China'}
 
+
+#this whole area just prints everything in a for loop
 for river, country in rivers_and_countries.items():
     print(f"\nThe {river.capitalize()} runs through {country}.")
 

@@ -1,3 +1,4 @@
+#extremely big glossary
 glossary = {'variable': 'containers for storing data values.',
 'function': 'a block of statements that return the specific task.',
 'loop': 'a control flow statement for executing a block of code repeatedly.',
@@ -9,5 +10,6 @@ glossary = {'variable': 'containers for storing data values.',
 'while loop': 'a control flow statement which allows code to be executed repeatedly, depending on whether a condition is satisfied or not.',
 'tuple': 'a type of data structure that is very similar to lists.'}
 
+#this prints everyting by using a for loop
 for word, meaning in glossary.items():
     print(f"{word}:\n{meaning}\n")
